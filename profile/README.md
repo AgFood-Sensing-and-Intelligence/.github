@@ -120,5 +120,9 @@ Michigan State University, East Lansing, MI 48824
 🌐 [yuzhenlu.com](https://www.yuzhenlu.com)
 
 ---
+### Acknowledgment
 
+If using lab tools or data, cite appropriately and credit collaborators.
+
+---
 <p align="center">© 2025 AgFoodSensing & Intelligence Lab — Michigan State University</p>
