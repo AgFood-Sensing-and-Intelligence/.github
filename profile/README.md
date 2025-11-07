@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./logo.png" alt="AgFoodSensing & Intelligence Lab Logo" width="200" />
-</p>
+</p> -->
 
 # AgFoodSensing & Intelligence Lab — Michigan State University
 
@@ -48,7 +48,7 @@ Our work spans **optical sensing**, **machine vision**, **precision agriculture*
 
 | Photo                                                                           | Name                                         | Profile                                                                                                                               |
 | ------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://www.yuzhenlu.com/author/ashfak-yeafi/avatar_hu052c65c32c95ab1b8cf76d29adb4e8fc_126770_270x270_fill_q90_lanczos_center.jpg" width="70" />      | **Ashfak Yeafi** | [Google Scholar](https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/ashfakyeafi/) |
+| <img src="https://www.yuzhenlu.com/author/ashfak-yeafi/avatar_hu052c65c32c95ab1b8cf76d29adb4e8fc_126770_270x270_fill_q90_lanczos_center.jpg" width="70" />      | **Ashfak Yeafi** | [Google Scholar](#) · [LinkedIn](#) |
 | <img src="https://www.yuzhenlu.com/author/boyang-deng/avatar_hu2f4746fb1b6c42fca18a6c2a169b5aee_4046_270x270_fill_q90_lanczos_center.jpg" width="70" />    | **Boyang Deng**                              | [Google Scholar](#) · [LinkedIn](#)                                                                                                   |
 | <img src="https://www.yuzhenlu.com/author/jiaming-zhang/avatar_hu2ed411a71388af2d0a6de6834adb9a7f_56951_270x270_fill_q90_lanczos_center.jpg" width="70" />  | **Jiaming Zhang**                            | [Google Scholar](#) · [LinkedIn](#)                                                                                                   |
 | <img src="https://www.yuzhenlu.com/author/khairul-islam/avatar_hu4e863e23bb1cc8e082268fc00fc94ca7_165282_270x270_fill_q90_lanczos_center.jpg" width="70" />  | **Khairul Islam**                            | [Google Scholar](#) · [LinkedIn](#)                                                                                                   |
@@ -91,7 +91,7 @@ Our work spans **optical sensing**, **machine vision**, **precision agriculture*
 ## 📰 News Highlights
 
 * 🧩 *Oct 2025:* MSU Discretionary Funding Initiative grant ($50K) for innovative poultry imaging.
-* 🌍 *Sep 2025:* Recognized among *World Top 2% Scientists* by Stanford & Elsevier.
+* 🌍 *Sep 2025:* Dr. Yuzhen Lu Recognized among *World Top 2% Scientists* by Stanford & Elsevier.
 * 🧠 *Sep 2025:* USDA-NIFA grant awarded for Asparagus Automation — PhD/MS openings available.
 * 🏆 *Sep 2025:* Boyang Deng awarded the BAE Graduate Scholarship ($2,000).
 
