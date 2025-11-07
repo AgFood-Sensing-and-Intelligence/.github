@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="AgFoodSensing & Intelligence Lab Logo" width="200" />
+  <img src="./Logo.jpg" alt="AgFoodSensing & Intelligence Lab Logo" width="200" />
 </p>
 
 # AgFoodSensing & Intelligence Lab — Michigan State University
