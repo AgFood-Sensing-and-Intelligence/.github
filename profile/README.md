@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Logo.jpg" alt="AgFoodSensing & Intelligence Lab Logo" width="200" />
+  <img src="./logo.png" alt="AgFoodSensing & Intelligence Lab Logo" width="200" />
 </p>
 
 # AgFoodSensing & Intelligence Lab — Michigan State University
@@ -18,12 +18,9 @@ Our work spans **optical sensing**, **machine vision**, **precision agriculture*
 
 ## 👩‍🔬 Principal Investigator
 
-**Dr. Yuzhen Lu**
-Assistant Professor, Department of Biosystems & Agricultural Engineering, Michigan State University
-📧 [luyuzhen@msu.edu](mailto:luyuzhen@msu.edu)
-🌐 [www.yuzhenlu.com](https://www.yuzhenlu.com)
-
-Dr. Lu previously served as an Assistant Professor at Mississippi State University and conducted postdoctoral research with the USDA-ARS at MSU, focusing on optical imaging for horticultural quality and in-field machine vision for apple sorting. His research integrates engineering, imaging, and AI for practical agricultural automation solutions.
+| Photo                                                                      | Name & Role                                                                                                                          | Links                                                                                                                                                   |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://www.yuzhenlu.com/author/yuzhen-lu/avatar_hu1df4ddaad1890cd60fbe36afe0170ec3_5088413_270x270_fill_q90_lanczos_center.jpg" width="80" /> | **[Dr. Yuzhen Lu](https://www.yuzhenlu.com/#team)**<br>Assistant Professor, Department of Biosystems & Agricultural Engineering, MSU | [Email](mailto:luyuzhen@msu.edu) · [Website](https://www.yuzhenlu.com) · [Google Scholar](https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en) |
 
 ---
 
@@ -40,10 +37,24 @@ Dr. Lu previously served as an Assistant Professor at Mississippi State Universi
 
 ## 🧩 Team Structure
 
-**Postdoctoral Researchers:** Naseeb Singh, Xinyang Mu
-**Graduate Assistants:** Ashfak Yeafi, Boyang Deng, Jiaming Zhang, Khairul Islam, Mehedi Hasan, Shraddha Kiran Burra, Yuyuan Tian
-**Undergraduate Researchers:** Arnav Gupta, Christina Lin, Gracie Cockerham, Joseph Coker, Sagar Kikkeri, Sidhaant Bhatt, Timothy Usey
-**Alumni:** Jiajun Xu, Yibin Wang, Jiaxu Cai, Shuochong Zeng, Ebenezer Olaniyi, Krishna Ginne, Mingjun Li
+### 🧪 Postdoctoral Researchers
+
+| Photo                                                                         | Name             | Profile                             |
+| ----------------------------------------------------------------------------- | ---------------- | ----------------------------------- |
+| <img src="https://www.yuzhenlu.com/author/naseeb-singh/avatar_huab12a0b26d88fbbf3305426ce4c53930_75385_270x270_fill_q90_lanczos_center.jpg" width="70" /> | **Naseeb Singh** | [Google Scholar](#) · [LinkedIn](#) |
+| <img src="https://www.yuzhenlu.com/author/xinyang-mu/avatar_huf67cb1cd0988c0f3e8d08838d5bd6dcd_58290_270x270_fill_q90_lanczos_center.jpg" width="70" />   | **Xinyang Mu**   | [Google Scholar](#) · [LinkedIn](#) |
+
+### 🎓 Graduate Assistants
+
+| Photo                                                                           | Name                                         | Profile                                                                                                                               |
+| ------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://www.yuzhenlu.com/author/ashfak-yeafi/avatar_hu052c65c32c95ab1b8cf76d29adb4e8fc_126770_270x270_fill_q90_lanczos_center.jpg" width="70" />      | **Ashfak Yeafi** | [Google Scholar](https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/ashfakyeafi/) |
+| <img src="https://www.yuzhenlu.com/author/boyang-deng/avatar_hu2f4746fb1b6c42fca18a6c2a169b5aee_4046_270x270_fill_q90_lanczos_center.jpg" width="70" />    | **Boyang Deng**                              | [Google Scholar](#) · [LinkedIn](#)                                                                                                   |
+| <img src="https://www.yuzhenlu.com/author/jiaming-zhang/avatar_hu2ed411a71388af2d0a6de6834adb9a7f_56951_270x270_fill_q90_lanczos_center.jpg" width="70" />  | **Jiaming Zhang**                            | [Google Scholar](#) · [LinkedIn](#)                                                                                                   |
+| <img src="https://www.yuzhenlu.com/author/khairul-islam/avatar_hu4e863e23bb1cc8e082268fc00fc94ca7_165282_270x270_fill_q90_lanczos_center.jpg" width="70" />  | **Khairul Islam**                            | [Google Scholar](#) · [LinkedIn](#)                                                                                                   |
+| <img src="https://www.yuzhenlu.com/author/mehedi-hasan/avatar_hu3c6ced35ad0e296ca56af5aa440c529e_9835_270x270_fill_q90_lanczos_center.jpg" width="70" />   | **Mehedi Hasan**                             | [Google Scholar](#) · [LinkedIn](#)                                                                                                   |
+| <img src="https://www.yuzhenlu.com/images/team/shraddhaburra.jpg" width="70" /> | **Shraddha Kiran Burra**                     | [Google Scholar](#) · [LinkedIn](#)                                                                                                   |
+| <img src="https://www.yuzhenlu.com/author/yuyuan-tian/avatar_hu0ff29fca64897862c049fea043077e90_3611847_270x270_fill_q90_lanczos_center.jpg" width="70" />    | **Yuyuan Tian**                              | [Google Scholar](#) · [LinkedIn](#)                                                                                                   |
 
 ---
 
@@ -107,13 +118,6 @@ Michigan State University, East Lansing, MI 48824
 📧 [luyuzhen@msu.edu](mailto:luyuzhen@msu.edu)
 📞 517-353-4517
 🌐 [yuzhenlu.com](https://www.yuzhenlu.com)
-
----
-
-
-### Acknowledgment
-
-If using lab tools or data, cite appropriately and credit collaborators.
 
 ---
 
