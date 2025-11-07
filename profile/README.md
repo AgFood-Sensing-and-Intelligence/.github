@@ -94,7 +94,7 @@ Our work spans **optical sensing**, **machine vision**, **precision agriculture*
 * 🌍 *Sep 2025:* Dr. Yuzhen Lu Recognized among *World Top 2% Scientists* by Stanford & Elsevier.
 * 🧠 *Sep 2025:* USDA-NIFA grant awarded for Asparagus Automation — PhD/MS openings available.
 * 🏆 *Sep 2025:* Boyang Deng awarded the BAE Graduate Scholarship ($2,000).
-
+> See more news on the [News Page](https://www.yuzhenlu.com/#news).
 ---
 
 ## 🎓 Open Positions
